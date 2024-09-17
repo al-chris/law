@@ -14,3 +14,12 @@ Thumbs.db
 
 # Ignore SQLite database files
 *.sqlite3
+
+# Ignore chroma cache
+chroma/
+
+# Ignore data files
+data/
+
+# Ignore python cache files
+__pycache__/
