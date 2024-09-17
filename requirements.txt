@@ -58,4 +58,5 @@ tokenizers==0.20.0
 types-requests==2.32.0.20240907 
 zipp==3.20.1
 pytube-15.0.0 
-youtube-transcript-api-0.6.2
+youtube-transcript-api==0.6.2
+langchain-chroma==0.1.4
